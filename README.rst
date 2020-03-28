@@ -321,9 +321,9 @@ Publications
 1. Gruener, R., Cheng, O., and Litvin, Y. (2018) *Introducing Petastorm: Uber ATG's Data Access Library for Deep Learning*. URL: https://eng.uber.com/petastorm/
 
 
-.. _Troubleshooting: docs/troubleshoot.rst
+.. _Troubleshooting: https://github.com/uber/petastorm/blob/master/docs/troubleshoot.rst
 .. _ticket: https://github.com/uber/petastorm/issues/new
-.. _Development: docs/development.rst
+.. _Development: https://github.com/uber/petastorm/blob/master/docs/development.rst
 
 How to Contribute
 =================
